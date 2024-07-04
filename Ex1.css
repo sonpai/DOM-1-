@@ -1,0 +1,13 @@
+.hightlight {
+  background-color: yellow;
+}
+.underline {
+  text-decoration: underline;
+}
+.bold {
+  font-weight: bold;
+}
+
+body {
+  text-align: center;
+}
